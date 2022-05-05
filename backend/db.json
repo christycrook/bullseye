@@ -1,0 +1,79 @@
+{
+    "users": [
+      {
+        "email": "regular@example.com",
+        "password": "$2a$10$2myKMolZJoH.q.cyXClQXufY1Mc7ETKdSaQQCC6Fgtbe0DCXRBELG",
+        "id": 1
+      },
+      {
+        "email": "admin@example.com",
+        "password": "$2a$10$w8qB40MdYkMs3dgGGf0Pu.xxVOOzWdZ5/Nrkleo3Gqc88PF/OQhOG",
+        "id": 2
+      }
+    ],
+    "products": [
+      {
+        "id": "hdmdu0t80yjkfqselfc",
+        "name": "Women's Maddison Sneakers",
+        "image": "https://target.scene7.com/is/image/Target/GUEST_364ce3b7-f1d7-4b25-89f5-2014acab860b?wid=325&hei=325&qlt=80&fmt=pjpeg",
+        "stock": 18,
+        "price": 29.99,
+        "shortDesc": "Maddison sneakers add chic style to your closet",
+        "description": "Bring a subtle touch of edge to your footwear collection with these Maddison Sneakers from A New Day™. These lace-up sneakers are wardrobe essentials that pair well with a variety of outfits. Designed with lace-up upper to give you a comfy fit, you can slip on these sneakers with shorts and a T-shirt to run errands, or with a dress to keep your feet comfy when you're headed out for casual brunch date."
+      },
+      {
+        "id": "3dc7fiyzlfmkfqseqam",
+        "image": "https://target.scene7.com/is/image/Target/GUEST_43239e1b-58b1-4b45-9afa-17391c646522?wid=325&hei=325&qlt=80&fmt=pjpeg",
+        "name": "Women's Basil Heels",
+        "stock": 20,
+        "price": 34.99,
+        "shortDesc": "Features two bands with woven design for a chic look",
+        "description": "Simple and stylish, these Basil Heeled Sandals from A New Day™ make a versatile addition to your footwear collection. Made with two bands showcasing a woven design, these slip-on heel sandals with an open toe help create a chic look whether you're ready for the office or a dinner party. In solid black, these sandals have a unique, round 3.25-inch basil heel and easily pair with most of your dresses, office wear and other outfits."
+      },
+      {
+        "id": "aoe8wvdxvrkfqsew67",
+        "name": "Women's Sublime Short Sleeve Graphic T-Shirt",
+        "image": "https://target.scene7.com/is/image/Target/GUEST_10a62ecd-57b0-4444-ada9-8e46fe43d485?wid=325&hei=325&qlt=80&fmt=pjpeg",
+        "stock": 18,
+        "price": 12.99,
+        "shortDesc": "Cool tee makes a statement addition to your closet",
+        "description": "The Women's Sublime Short Sleeve Graphic T-Shirt (Juniors') Regular & Plus - Charcoal Heather makes a stylish statement addition to your casual wardrobe. The lightweight fabric provides breathable comfort that lasts all day, while the short sleeves make it equally perfect for layering and warm-weather wear. Simply pair it with shorts and sneakers for a casual day out in the sun, or wear it with jeans, boots and a lightweight jacket to take the look into the evening."
+      },
+      {
+        "id": "cwkrksjhsjedkq4k29f",
+        "name": "Envelope Crossbody Bag",
+        "image": "https://target.scene7.com/is/image/Target/GUEST_8cec8ae8-88ab-4d37-9855-deff827e02c1?wid=253&hei=253&qlt=80&fmt=pjpeg",
+        "stock": 15,
+        "price": 15,
+        "shortDesc": "Universal Thread crossbody bag brings subtle texture to your look",
+        "description": "Elevate your everyday casual look with this simple yet stylish Magnetic Closure Crossbody Bag from Universal Thread™. This crossbody bag has an allover textured finish in a solid hue for a clean, sophisticated look that goes with everything from a basic tee and jeans to a shift dress and heels. Designed with a spacious interior with zip pocket, this crossbody bag offers ample space for your phone and other essentials while keeping them secure with the snap closure. Plus, the adjustable shoulder strap makes for comfortable carrying. Pair this crossbody handbag with a variety of outfits for hands-free convenience."
+      },
+      {
+        "id": "pywwu8meqwpl2qho2ja",
+        "image": "https://target.scene7.com/is/image/Target/GUEST_1d140db9-e318-44ba-aed1-a2588f6547b9?wid=199&hei=199&qlt=80&fmt=pjpeg",
+        "name": "Women's Mid-Rise Skinny Jeans",
+        "price": "24.99",
+        "stock": 19,
+        "shortDesc": "Engineered to smooth and sculpt, and made with more back-rise coverage to keep you confident and looking great all day long",
+        "description": "Whatever your day has in store, be ready for it with the confident fit of the Mid-Rise Skinny Jeans from Universal Thread™. These jeans bring an update to your usual go-to outfit, whether you’re going casual in a plain T-shirt and sneakers or you’re dressing things up with a cold-shoulder sweater and heels. They have been engineered to have the perfect fabric weight, smoothing, sculpting and giving you a confident fit wear after wear. Made with everybody and every body in mind, these mid-rise jeans will always be your go-to choice."
+      },
+      {
+        "id": "h0kyzqkyjrjl2qhqmn0",
+        "image": "https://target.scene7.com/is/image/Target/GUEST_6ca5e9dd-35c8-42eb-b343-2b0b12d4ad73?wid=199&hei=199&qlt=80&fmt=pjpeg",
+        "name": "Women's Brooklin High Top Sneakers",
+        "price": "37.99",
+        "stock": "20",
+        "shortDesc": "Zipper closure on the side makes getting ready all the easier",
+        "description": "Whether you're heading out for brunch or running errands around town, these Brooklin High-Top Sneakers from Universal Thread™ will take you through your day in absolute comfort. Featuring a solid exterior with clean lines and coordinating laces, these closed-toe sneakers are wardrobe essentials that pair well with a variety of outfits. You'll love the breathable perforated upper fabric and medium width design that keep your feet feeling comfy from day to night and season to season, while the zipper closure ensures easy wear."
+      },
+      {
+        "id": "k6qdhxt6gjql2qiynsk",
+        "image": "https://target.scene7.com/is/image/Target/GUEST_c058843c-7be6-4b25-a1d8-53aab2dc54f5?wid=325&hei=325&qlt=80&fmt=pjpeg",
+        "name": "Gold Plated Figaro Bar Initial Chain Necklace - C",
+        "price": "20.00",
+        "stock": "15",
+        "shortDesc": "Figaro bar chain necklace with initial ‘C’ is perfect for anyone with an ‘C’ name",
+        "description": "Add a personalized touch to your own accessory collection or give a loved one a lovely gift with the Gold Plated Figaro Bar Initial Chain Necklace from A New Day™. Designed with a mix of round and long-linked chain, this necklace features a bar at the center adorned with the letter ‘C’ for an attractive and stylish look. This gold-plated necklace lends glam appeal to your outfits, and it comes with an extender chain to help you customize the length. Nickel-free, this initial necklace suits sensitive skin and closes with a clip-in clasp closure for a secure fit."
+      }
+    ]
+  }
